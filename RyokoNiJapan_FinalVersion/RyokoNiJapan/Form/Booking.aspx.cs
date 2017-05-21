@@ -719,4 +719,9 @@ public partial class Form_Booking : System.Web.UI.Page
     {
         TBvacationdate.Text = CalendarVacationDate.SelectedDate.ToString("dd/MM/yyyy");
     }
+
+    protected void TBbookingname_TextChanged(object sender, EventArgs e)
+    {
+
+    }
 }
