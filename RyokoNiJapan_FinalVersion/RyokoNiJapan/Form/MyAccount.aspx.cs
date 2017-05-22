@@ -48,7 +48,7 @@ public partial class Form_MyAccount : System.Web.UI.Page
 
             }
         }
-        catch (Exception eex)
+        catch (Exception ex)
         {
             lblname.Text = "error";
         }
