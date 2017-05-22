@@ -80,15 +80,13 @@
                             unlimited choice of&nbsp;shopping, entertainment, culture and dining to its visitors.
                             <br />
                             <br />
-                            <br />
-                            <br />
                             The city&#39;s history can be appreciated in districts such as&nbsp;Asakusa, and in many 
                             excellent&nbsp;museums, historic temples and&nbsp;gardens. Tokyo also offers a number of 
                             attractive&nbsp;green spaces&nbsp;in the city center and within relatively short train 
                             rides at its outskirts.<br />
                             <br />
                             <br />
-                            INTERESTING ACTIVITIES TO DO :
+                            <b>INTERESTING ACTIVITIES TO DO : </b>
                             <br />
                             <br />
                             1. Search for &quot;old Japan&quot; in the sacred Mount Takao <br /> 
@@ -121,7 +119,7 @@
                             his government to distant Edo (Tokyo).<br />
                             <br />
                             <br />
-                            INTERESTING ACTIVITIES TO DO :
+                            <b>INTERESTING ACTIVITIES TO DO :</b>
                             <br />
                             <br />
                             1. Eat Osaka offers cooking workshops focusing on Japanese home or street <br /> &nbsp;&nbsp;&nbsp; food <br />
@@ -158,7 +156,7 @@
                             annual snow festival held in February.<br />
                             <br />
                             <br />
-                            INTERESTING ACTIVITIES TO DO :
+                            <b>INTERESTING ACTIVITIES TO DO :</b>
                             <br />
                             <br />
                             1. Tour in the factory and Sapporo Beer Museum to find out the history of <br /> &nbsp;&nbsp;&nbsp; beer<br /> 
@@ -192,7 +190,7 @@
                             atomic bomb and spared from air raids during World War II. Countless temples, 
                             shrines and other historically priceless structures survive in the city today.<br />
                             <br />
-                            INTERESTING ACTIVITIES TO DO :
+                           <b> INTERESTING ACTIVITIES TO DO :</b>
                             <br />
                             <br />
                             1. Kinkaku-ji's golden reflection as a symbolic of Kyoto  <br /> 
@@ -226,7 +224,7 @@
                             <br />
                             <br />
                             <br />
-                            INTERESTING ACTIVITIES TO DO :
+                          <b>  INTERESTING ACTIVITIES TO DO :</b>
                             <br />
                             <br />
                             1. Enjoy hot spring heaven in Marukoma Onsen Ryokan, located right on Lake <br /> &nbsp;&nbsp;&nbsp; Shikotsu in western Hokkaido. <br />
@@ -260,7 +258,7 @@
                             <br />
                             <br />
                             <br />
-                            INTERESTING ACTIVITIES TO DO :
+                            <b>INTERESTING ACTIVITIES TO DO : </b>
                             <br />
                             <br />
                             1. Eat Japan's "most delicious" ramen at Ide Shoten's Wakayama  <br />
