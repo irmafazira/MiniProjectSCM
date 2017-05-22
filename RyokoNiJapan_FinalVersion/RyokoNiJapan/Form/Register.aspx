@@ -25,7 +25,7 @@
                         <ContentTemplate>
                             <asp:TextBox ID="txtUsername" runat="server"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
-                                ControlToValidate="txtUsername" ErrorMessage="UserName cannot be blank"></asp:RequiredFieldValidator>
+                                ControlToValidate="txtUsername" ErrorMessage="UserName cannot be blank!"></asp:RequiredFieldValidator>
                         </ContentTemplate>
                     </asp:UpdatePanel>
                 </td>
@@ -36,7 +36,7 @@
                 <td align="left">
                             <asp:TextBox ID="TBic" runat="server"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator6" runat="server" 
-                                ControlToValidate="TBic" ErrorMessage="IC Number cannot be blank"></asp:RequiredFieldValidator>
+                                ControlToValidate="TBic" ErrorMessage="IC Number cannot be blank!"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
