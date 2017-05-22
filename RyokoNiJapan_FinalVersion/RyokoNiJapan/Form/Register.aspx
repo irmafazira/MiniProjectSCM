@@ -36,7 +36,7 @@
                 <td align="left">
                             <asp:TextBox ID="TBic" runat="server"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator6" runat="server" 
-                                ControlToValidate="TBic" ErrorMessage="IC Number cannot be blank!"></asp:RequiredFieldValidator>
+                                ControlToValidate="TBic" ErrorMessage="IC Number cannot be blank!!"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
