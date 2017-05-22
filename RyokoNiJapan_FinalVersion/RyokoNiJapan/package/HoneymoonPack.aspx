@@ -38,7 +38,7 @@
                         <br />
                         Travel Area :
                         <br />
-                        Tokyo, Osaka, Sapporo, Kyoto, Hokaido, Wakayama
+                        Tokyo, Osaka, Sapporo, Kyoto, Hokaido and Wakayama
                         <br />
                     </td>
                     <td>
