@@ -25,7 +25,7 @@
                         <ContentTemplate>
                             <asp:TextBox ID="txtUsername" runat="server"></asp:TextBox>
                             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
-                                ControlToValidate="txtUsername" ErrorMessage="UserName cannot be blank!"></asp:RequiredFieldValidator>
+                                ControlToValidate="txtUsername" ErrorMessage="UserName cannot be blank!!"></asp:RequiredFieldValidator>
                         </ContentTemplate>
                     </asp:UpdatePanel>
                 </td>
