@@ -136,7 +136,7 @@
                 </td>
                 <td>
                     <asp:Button ID="btnReset" runat="server" onclick="Button2_Click2" 
-                        Text="RESET" Width="60px" />
+                        Text="Reset" Width="60px" />
                 </td>
             </tr>
         </table>
