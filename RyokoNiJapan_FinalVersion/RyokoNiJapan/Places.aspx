@@ -80,6 +80,8 @@
                             unlimited choice of&nbsp;shopping, entertainment, culture and dining to its visitors.
                             <br />
                             <br />
+                            <br />
+                            <br />
                             The city&#39;s history can be appreciated in districts such as&nbsp;Asakusa, and in many 
                             excellent&nbsp;museums, historic temples and&nbsp;gardens. Tokyo also offers a number of 
                             attractive&nbsp;green spaces&nbsp;in the city center and within relatively short train 
