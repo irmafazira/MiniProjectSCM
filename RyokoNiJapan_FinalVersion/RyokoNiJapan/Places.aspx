@@ -37,6 +37,7 @@
                 <asp:ImageButton ID="IBsapporo" runat="server" Height="260px" 
                     ImageUrl="~/picture/SAPPORO.jpg" Width="240px" onclick="IBsapporo_Click" />
                             <br />
+                            <br />
                             SAPPORO<br />
                             <br />
                         </td>
@@ -95,7 +96,7 @@
                             4. Jogging round the Imperial Palace <br />
                             5. Yakatabune boat trip. A boat that resemble traditional Japanese <br />&nbsp;&nbsp;&nbsp;&nbsp; homes<br /> 
                             6. Navigate Tokyo&#39;s streets by Odaiba-Asakusa river bus <br />
-                            7. A walk in Inokashira Park with interesting activities provided<br />
+                            7. Take a cab in Inokashira Park with interesting activities provided<br />
                             <br />
                         </div>
                     </asp:View>
