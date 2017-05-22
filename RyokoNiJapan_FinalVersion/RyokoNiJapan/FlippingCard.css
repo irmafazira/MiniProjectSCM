@@ -37,8 +37,9 @@
 	background-image: url(picture/FCbg.gif);
 	text-align: center;
 }
- 
-/* The .front card needs to rotate when we hover, 180 degrees will do the trick*/
+ <br />
+// changes made by nas
+/* The .front card needs to rotat/e when we hover, 180 degrees will do the trick*/
 .card:hover .front{
 	transform: rotateY(180deg);
 	-webkit-transform: rotateY(180deg);
