@@ -134,6 +134,10 @@
                     <asp:Button ID="btnSubmit" runat="server" onclick="Button1_Click1" 
                         Text="Submit" Width="60px" />
                 </td>
+                <td>
+                    <asp:Button ID="btnReset" runat="server" onclick="Button2_Click2" 
+                        Text="Reset" Width="60px" />
+                </td>
             </tr>
         </table>
         <br />
