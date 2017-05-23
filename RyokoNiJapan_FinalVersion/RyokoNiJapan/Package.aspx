@@ -41,31 +41,13 @@
             <td style="height: 23px; width: 435px; text-align: center">
                 <asp:ImageButton ID="group" runat="server" Height="150px" 
                     ImageUrl="~/picture/group travel.jpg" Width="250px" />
-            </td>
-            <td style="height: 23px">
-                <asp:Label ID="Label3" runat="server" Text="Group Package" 
-                    style="font-family: 'Bradley Hand ITC'; font-size: large; font-weight: bold"></asp:Label>
-                <br />
-                <br />
-                <br />
-                <asp:Button ID="Button4" runat="server" onclick="Button4_Click" 
-                    Text="View Pack" Width="89px" />
-            </td>
+           
         </tr>
         <tr>
             <td style="height: 23px; width: 435px; text-align: center">
                 <asp:ImageButton ID="package" runat="server" Height="150px" 
                     ImageUrl="~/picture/promotion.jpg" Width="250px" />
             </td>
-            <td style="height: 23px">
-                <asp:Label ID="Label4" runat="server" Text="Promotion Package" 
-                    style="font-family: 'Bradley Hand ITC'; font-size: large; font-weight: bold"></asp:Label>
-                <br />
-                <br />
-                <asp:Button ID="Button5" runat="server" onclick="Button5_Click" 
-                    Text="View Pack" Width="89px" />
-            </td>
-        </tr>
         <tr>
             <td style="height: 23px; width: 435px; text-align: center">
                 <asp:ImageButton ID="honeymoon" runat="server" Height="150px" 
@@ -86,11 +68,4 @@
                     <span style="color: #0033CC">*No charge for booking cancellation</span><br 
                         style="color: #0033CC" />
                     <span style="color: #0033CC">*Pakage include flight and hotel</span></span><br 
-                        class="auto-style4" style="color: #0033CC" />
-                    <span class="auto-style4" style="color: #0033CC">*Terms and condition</span><br 
-                        class="auto-style4" style="color: #0033CC" />
-                    <span class="auto-style4" style="color: #0033CC">*Guider a provided </span></td>
-            </tr>
-    </table>
-</asp:Content>
 
